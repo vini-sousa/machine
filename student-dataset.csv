@@ -1,12 +1,11 @@
-id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grade;math.grade;sciences.grade;language.grade;portfolio.rating;coverletter.rating;refletter.rating
 0;Kiana Lor;China;Suzhou;31.31;120.62;F;NA;22;3.5;3.7;3.1;1;4;4;4
 1;Joshua Lonaker;United States of America;Santa Clarita;34.39;-118.54;M;NA;22;2.9;3.2;3.6;5;5;4;5
 2;Dakota Blanco;United States of America;Oakland;37.8;-122.27;F;NA;22;3.9;3.8;3.2;5;3;3;4
 3;Natasha Yarusso;United States of America;Castro Valley;37.69;-122.09;F;NA;20;3.3;2.8;3.2;5;5;2;4
-4;Brooke Cazares;Brazil;S�o Jos� dos Campos;-23.18;-45.88;F;NA;21;3.7;2.6;3.4;1;4;4;5
+4;Brooke Cazares;Brazil;São José dos Campos;-23.18;-45.88;F;NA;21;3.7;2.6;3.4;1;4;4;5
 5;Rochelle Johnson;United States of America;Indianapolis;39.77;-86.16;F;NA;21;3.4;3.1;3.7;5;2;4;4
 6;Joey Abreu;China;Shenyang;41.79;123.43;M;NA;22;3.7;3.9;3.6;2;5;5;5
-7;Preston Suarez;Brazil;S�o Paulo;-23.47;-46.67;M;NA;22;3.8;3.7;3.6;2;5;5;4
+7;Preston Suarez;Brazil;São Paulo;-23.47;-46.67;M;NA;22;3.8;3.7;3.6;2;5;5;4
 8;Lee Dong;Philippines;Manila;14.6;120.98;F;NA;24;3.9;3.6;3.2;2;4;3;5
 9;Maa'iz al-Dia;Turkey;Istanbul;41.02;28.96;M;NA;22;2.4;2.8;3.8;3;5;5;4
 10;Maja Nicholson;United States of America;Dallas;32.78;-96.8;F;NA;23;3.4;3.5;3.2;5;4;2;5
@@ -49,7 +48,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 47;Zoe Kern;United States of America;West Jordan;40.61;-111.94;F;NA;22;2.1;4;3.4;5;4;5;4
 48;Sidney Beavers;United States of America;Los Angeles;34.05;-118.24;M;NA;23;2.3;2.8;3.5;5;4;4;4
 49;Miriam Aguilar;Mexico;Mexicali;32.65;-115.47;F;NA;22;3.6;3.8;2.8;2;4;4;4
-50;Issac Mata;Mexico;Tehuacán;18.45;-97.38;M;NA;23;2.4;3.1;2.7;1;5;5;4
+50;Issac Mata;Mexico;TehuacÃ¡n;18.45;-97.38;M;NA;23;2.4;3.1;2.7;1;5;5;4
 51;Hannah Uren;United States of America;Los Angeles;34.05;-118.24;F;NA;22;3.2;2.2;3.5;5;5;3;5
 52;Zachary Bradley;Spain;Madrid;40.41;-3.69;M;NA;21;3.5;3.5;3.4;2;3;5;5
 53;Moira Buttitto;United States of America;Los Angeles;34.05;-118.24;F;NA;23;1.9;2.8;3.2;5;4;5;5
@@ -95,7 +94,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 93;Hailey Malle;Russian Federation;Nizhniy Novgorod;56.33;44.01;F;NA;22;3.7;2.5;3.2;2;3;3;5
 94;Devon Miranda;Colombia;Pereira;4.81;-75.7;M;NA;20;3.7;3.7;3.8;1;5;5;5
 95;Danielle Nguyen;Japan;Tokyo;35.69;139.75;F;NA;23;3.3;3.5;3.6;3;5;4;4
-96;Mateo Cisneros;Brazil;Foz do Igua�u;-25.55;-54.58;M;NA;23;3;3.4;2.9;4;4;4;5
+96;Mateo Cisneros;Brazil;Foz do Iguaçu;-25.55;-54.58;M;NA;23;3;3.4;2.9;4;4;4;5
 97;William Pablo;Japan;Kashiwara;34.58;135.62;M;NA;24;2.9;3.3;3.1;4;2;5;4
 98;Jason Hundsdorfer;United States of America;Los Angeles;34.05;-118.24;M;NA;20;3.9;3.9;4;5;3;3.5;3
 99;Antonio Desai;Japan;Kawasaki;35.52;139.72;M;NA;22;2.2;3.9;3.9;3;5;4;5
@@ -127,20 +126,20 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 125;Courtney Martinez;Mexico;Aguascalientes;21.88;-102.3;F;NA;20;3.7;3.7;3.7;3;4;5;5
 126;Alexandra Graham;United States of America;Los Angeles;34.05;-118.24;F;NA;22;3.4;3.5;2.8;5;4;3;5
 127;Alexander Swearingen;United States of America;Los Angeles;34.05;-118.24;M;NA;22;3.9;2.8;4;5;3;4;4
-128;Brandy Waldner;Germany;Zülpich;50.7;6.65;F;NA;20;3.2;3.5;3.9;3;5;5;5
+128;Brandy Waldner;Germany;ZÃ¼lpich;50.7;6.65;F;NA;20;3.2;3.5;3.9;3;5;5;5
 129;Coleman Keelen;Spain;Callosa de Segura;38.12;-0.88;M;NA;24;3.4;4;3.4;4;4;4;4
 130;Casey Buhr;United States of America;Phoenix;33.45;-112.07;M;NA;21;3.7;3.2;2.5;5;2;3;5
 131;Shauna Sneed;United States of America;Burlingame;37.58;-122.36;F;NA;19;2.7;3.7;3.7;5;5;4;5
 132;Caitlin Dean;United States of America;Philadelphia;39.95;-75.16;F;NA;22;3.9;3.7;3.1;5;4;4;4
 133;Andrew Kirin;United States of America;Odessa;31.85;-102.37;M;NA;25;3.8;2.2;3;5;3;2;3
 134;Nadia Minks;Russian Federation;Moscow;55.75;37.62;F;NA;24;3.8;3.1;3.5;4;2;5;5
-135;Ivy Lucero;Brazil;S�o Paulo;-23.47;-46.67;F;NA;24;3.9;3.6;3.2;3;4;4;4
+135;Ivy Lucero;Brazil;São Paulo;-23.47;-46.67;F;NA;24;3.9;3.6;3.2;3;4;4;4
 136;Kevin Curry;United States of America;Phoenix;33.45;-112.07;M;NA;23;3.9;3;3.7;5;5;5;5
 137;Charles Cramer;United States of America;East Los Angeles;34.02;-118.17;M;NA;23;3.1;3.5;3.8;5;4;5;4
 138;Emily Warner;United States of America;Lodi;38.13;-121.27;F;NA;21;3.5;3.2;3.9;5;3;5;4
 139;Mckenzie Haycock;Canada;Toronto;43.67;-79.42;F;NA;20;3.8;2.3;3.7;5;5;4;3
 140;Faviola Soto;Mexico;Cortazar;20.48;-100.93;F;NA;19;4;3.8;3.9;3.7;5;5;4
-141;Stephen Wharton;Mexico;Tuxtla Gutiérrez;16.75;-93.12;M;NA;21;2.1;3.7;3.8;4;4;5;3
+141;Stephen Wharton;Mexico;Tuxtla GutiÃ©rrez;16.75;-93.12;M;NA;21;2.1;3.7;3.8;4;4;5;3
 142;Alexandria Fortner;United States of America;Phoenix;33.45;-112.07;F;NA;20;3.9;3.8;3.8;5;4;4;5
 143;Savannah Kivett;United States of America;Colorado Springs;38.83;-104.82;F;NA;21;3.8;3.9;3.8;5;4;4;5
 144;Tanner Jones;United States of America;Stockton;37.96;-121.29;M;NA;23;3.9;3.7;3.7;5;4;5;5
@@ -182,9 +181,9 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 180;Nicole Torres-Valadez;Brazil;Rio de Janeiro;-22.9;-43.23;F;NA;24;3.9;3.1;3;1;4;5;4
 181;Addie Villavicencio;United States of America;San Jose;37.34;-121.89;F;NA;20;4;3.5;3.2;5;5;5;4
 182;Billy Jack Bestle;United States of America;Baltimore;39.29;-76.61;M;NA;22;3.7;4;3.8;5;5;4;5
-183;Isabella Martinez;Colombia;Bogotá;4.65;-74.06;F;NA;23;2.6;4;2.7;4;3;4;3
+183;Isabella Martinez;Colombia;BogotÃ¡;4.65;-74.06;F;NA;23;2.6;4;2.7;4;3;4;3
 184;Kimberly Thielke;United States of America;Los Angeles;34.05;-118.24;F;NA;21;3.8;3.9;3.3;5;3;5;5
-185;Adrian Miguel-Gomez;Colombia;Medellín;6.25;-75.56;M;NA;22;3.7;3.3;2.2;4;4;4;5
+185;Adrian Miguel-Gomez;Colombia;MedellÃ­n;6.25;-75.56;M;NA;22;3.7;3.3;2.2;4;4;4;5
 186;Kayla Sales;United States of America;Quincy;42.25;-71;F;NA;22;2.1;3.1;4;5;5;4;5
 187;Haafiza al-Attar;Morocco;Rabat;34.01;-6.84;F;NA;21;2.4;3.6;3.8;3;3;5;3
 188;Juanita Medina;Mexico;Mexico;19.43;-99.14;F;NA;22;3.8;3.9;3.7;4;3;5;4
@@ -225,7 +224,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 223;Dasha Bannock Lee;United States of America;San Diego;32.72;-117.16;other;NA;20;2.8;3.3;4;5;4;3;2
 224;Anthony Mcdevitt;United States of America;Los Angeles;34.05;-118.24;M;NA;24;3.1;4;3.9;5;4;5;3
 225;Darby Focken;United States of America;Hinsdale;41.8;-87.94;F;NA;21;3.5;2.5;3.7;5;4;4;4
-226;Abigail Gallegos;Brazil;Belém;-1.45;-48.48;F;NA;24;3.4;3;2.1;4;3;3;4
+226;Abigail Gallegos;Brazil;BelÃ©m;-1.45;-48.48;F;NA;24;3.4;3;2.1;4;3;3;4
 227;Patricia Rockhold;United States of America;San Francisco;37.77;-122.42;F;NA;21;4;3.5;3.4;5;5;4;5
 228;Kylie Schafer;United States of America;Houston;29.76;-95.36;F;NA;22;3.1;3;3.3;5;5;5;4
 229;Katherine Beatty;United States of America;Los Angeles;34.05;-118.24;F;NA;19;4;2.4;3.9;5;4;5;4
@@ -270,7 +269,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 268;Bryant Ronquillo;Mexico;Aguascalientes;21.88;-102.3;M;NA;20;4;3.2;3.5;4;3;5;3
 269;Garrett Heim;United States of America;Mobile;30.69;-88.04;M;NA;20;4;3.2;3.1;5;4;4;5
 270;Cody Amen;United States of America;Las Vegas;36.17;-115.14;M;NA;23;3.6;3.9;3.7;5;4;4;4
-271;Jasmine Lopez;Brazil;Guaxupé;-21.3;-46.7;F;NA;21;3.8;3.8;1.5;4;4;3;4
+271;Jasmine Lopez;Brazil;GuaxupÃ©;-21.3;-46.7;F;NA;21;3.8;3.8;1.5;4;4;3;4
 272;William Tierney;United States of America;New York;40.71;-74.01;M;NA;21;3.8;2.1;3;5;3;4;4
 273;Matthew Sputh;United States of America;Modesto;37.64;-121;M;NA;22;3.2;2.6;4;5;3;3;5
 274;Brenna Chapman;United States of America;Las Vegas;36.17;-115.14;F;NA;21;3.5;3.8;3.3;5;5;4;5
@@ -282,7 +281,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 280;Tiffanie Her;Japan;Tokyo;35.69;139.75;F;NA;22;3.4;4;3.6;3;4;4;3
 281;Dyllan Paige;United States of America;Sugar Land;29.62;-95.63;M;NA;20;2.9;3.1;2.6;5;5;5;4
 282;Cole Hathcoat;United States of America;Lemoore;36.3;-119.78;M;NA;23;2.4;3.6;2.8;5;3;5;5
-283;Jesse Carballo;Colombia;Bogotá;4.65;-74.06;M;NA;20;3.8;3.9;3.9;4;5;4;4
+283;Jesse Carballo;Colombia;BogotÃ¡;4.65;-74.06;M;NA;20;3.8;3.9;3.9;4;5;4;4
 284;Robert Podolski;United States of America;Oakland;37.8;-122.27;M;NA;22;3.7;3.3;2.4;5;4;4;4
 285;Viridiana Ballesteros;Brazil;Alfenas;-21.43;-45.95;F;NA;22;2.8;3.5;3.9;4;4;5;5
 286;Michael Griffin;United States of America;New York;40.71;-74.01;M;NA;21;4;4;4;5;3;5;5
@@ -300,7 +299,7 @@ id;name;nationality;city;latitude;longitude;gender;ethnic.group;age;english.grad
 298;Nicolas Papp;United States of America;New York;40.71;-74.01;M;NA;23;2.7;3.7;3.9;5;5;4;4
 299;Christopher Inhulsen;United States of America;Fort Worth;32.73;-97.32;M;NA;23;3.1;3.3;2.9;5;2;4;4
 300;Tessa Rawanduzy;United States of America;Derby;37.55;-97.27;F;NA;21;3.3;3.3;2;5;3;3;5
-301;Vanessa Gonzalez;Nicaragua;León;12.44;-86.88;F;NA;24;3.3;3.7;3.8;3;5;5;4
+301;Vanessa Gonzalez;Nicaragua;LeÃ³n;12.44;-86.88;F;NA;24;3.3;3.7;3.8;3;5;5;4
 302;Austin Haas;United States of America;Columbus;39.96;-83;M;NA;20;3.6;3.7;3.1;5;4;5;5
 303;Madison Fithian;United States of America;Los Angeles;34.05;-118.24;F;NA;20;3.6;3.9;4;5;5;5;3
 304;Zachary Mulvahill;United States of America;Los Angeles;34.05;-118.24;M;NA;20;3.2;3.4;3.9;5;5;5;3
